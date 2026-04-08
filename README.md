@@ -1,6 +1,6 @@
 # Example BI Dashboards
 
-Please see attached dashboards I've recreated on Power BI, our Data & BI team don't use this anymore and use an in-house app created by my manager which is very similar to BI
+Please see attached dashboards I've recreated on Power BI, our Data & BI team don't use this anymore and use an in-house app created by my manager which is very similar to BI.
 
 # Customer-CO2-Dashboard
 
